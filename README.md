@@ -27,6 +27,10 @@ npm run start
 > [!NOTE]
 > jika koneksi mu error, coba perika koneksi internet dan mulai ulang.
 
+> [!CAUTION]
+> jika ada error/semacam nya laporkan ke issue
+
+
 ## Author
 [kink zome](https://github.com/Zcoder4)
 ## Show your support
